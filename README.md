@@ -1,6 +1,8 @@
 # CAMJ_research
  CAMJ = The Certified and Accredited Meteorologists of Japan
 
+I presented the following title, but please note that CAMJ holds the copyright of the manuscript of the preliminary paper.
+
  第12回日本気象予報士会研究成果発表会(2020/2/23)
  「日較差の風向依存性に関する統計処理と考察」
  
