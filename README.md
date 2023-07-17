@@ -1,5 +1,5 @@
 # CAMJ_research
- CAMJ = The Certified and Accredited Meteorologists of Japan
+ CAMJ = The Certified and Accredited Meteorologists of Japan (日本気象予報士会)
 
 I presented the following title, but please note that CAMJ holds the copyright of the manuscript of the preliminary paper.
 
