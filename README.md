@@ -11,3 +11,7 @@ I presented the following title, but please note that CAMJ holds the copyright o
  
  第14回日本気象予報士会研究成果発表会(2022/2/27)
  「雨温図から気温極値日を推定する手法の検討」
+
+ ※延長
+
+ 雨温図を直線近似・放物線近似・三角関数近似
