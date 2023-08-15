@@ -16,4 +16,3 @@ I presented the following title, but please note that CAMJ holds the copyright o
 
  雨温図を直線近似・放物線近似・三角関数近似
 
- 気象夏の学校2023
